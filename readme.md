@@ -1,0 +1,1 @@
+The project is a basic recipe website. In this project, i will demonstrated my skills on how to show text and able to modify it, insert picture and links into the webpage.
